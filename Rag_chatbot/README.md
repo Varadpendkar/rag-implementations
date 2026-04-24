@@ -90,7 +90,7 @@ print(response['result'])
 
 Here's an example of what the system can do:
 
-![Filter, Map, Reduce Explanation](https://via.placeholder.com/800x600?text=Filter,+Map,+Reduce+Example)
+![RAG Output Example](./Assets/Output.png)
 
 The system retrieves relevant documentation from the PDF and generates a comprehensive explanation with code examples.
 
